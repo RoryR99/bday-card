@@ -139,3 +139,18 @@ body {
   font-size: 120px;
   line-height: 120px;
 }
+
+.front img {
+  height: 100%;
+  width: 100%;
+}
+
+.inside img {
+  height: 100%;
+  width: 100%;
+}
+
+.back img {
+  height: 100%;
+  width: 100%;
+}
