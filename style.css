@@ -6,6 +6,9 @@
 }
 body {
   background-color: #A70479;
+  background-image: url("https://cdn.vectorstock.com/i/preview-1x/98/16/seamless-birthday-wallpaper-vector-729816.jpg")
+  background-repeat: repeat;
+  background-size: cover;
 }
 .card {
   width: 640px;
