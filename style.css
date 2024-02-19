@@ -177,3 +177,15 @@ h1:hover {
     transform: scale(1.05); /* Scale up the heading on hover */
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); /* Enhance the box shadow on hover */
 }
+
+.front {
+  background-color: #EDEDEC;
+}
+
+.back {
+  background-color: #EDEDEC;
+}
+
+.inside {
+  background-color: #EDEDEC;
+}
